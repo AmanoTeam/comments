@@ -1,0 +1,2 @@
+class CommentsError(Exception):
+    pass
